@@ -3,6 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Technical Skills"
+    url: /technical_skills/
+
+  - title: "Reported Vulnerabilities"
+    url: /reported_vulnerabilties/
   #- title: "Talks"
   #  url: /talks/    
 
