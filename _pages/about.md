@@ -7,19 +7,39 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a third-year Ph.D. student in the [Department of Computer Science and Engineering](https://cse.wustl.edu/) at [Washington University in St. Louis](https://wustl.edu/), advised by [Prof. Ning Zhang](https://cybersecurity.seas.wustl.edu/ning/index.html). Prior to that, I received dual Bachelor's degrees in Communication Engineering from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/) and [University of Glasgow (UoG)](https://www.gla.ac.uk/) (Graduated with First-class honor degree) in 2020. Additionally, I worked as a full-time research engineer in [Tencent](https://www.tencent.com/) from 2020 to 2021. 
+I am currently a final-year Ph.D. candidate in the Department of Computer Science and Engineering at [Washington University in St. Louis (WashU)](https://wustl.edu/). I am fortunate to work in [Computer Security and Privacy Lab (CSPL)](https://cybersecurity.seas.wustl.edu/index.html). Previously, I received B.S. degree in Data Science and Technology from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2021. 
+
+My PhD specializes in system/software security and real-time embedded systems, where I have published papers as the first author in top-tier conferences within the domains of security and real-time systems. Additionally, I have a keen interest in system building and serve as a core member in developing an open platform for Cyber-Physical System security research ([OP-CPS](https://cybersecurity.seas.wustl.edu/projects/opcps.html)).
 
 Research Interests
 ======
-- Security and Privacy of Machine Learning, Generative AI, Large Language Model
+- Real-time Embedded System, Software/System Security, Robotic System
+
+Education
+======
+ <div class="education-section">
+  <div class="education-item">
+    <div class="institution">
+      <div class="institution-name">
+        <h3>Washington University in St. Louis, USA</h3>
+        <span class="date">Sep 2021 - May 2025 (Expected)</span>
+      </div>
+      <p class="degree">Ph.D. in Computer Science</p>
+    </div>
+  </div>
+ <div class="education-item">
+    <div class="institution">
+      <div class="institution-name">
+        <h3>The Hong Kong University of Science and Technology, HK</h3>
+        <span class="date">Sep 2017 - Jun 2021</span>
+      </div>
+      <p class="degree">B.S. in Data Science and Technology, First Class Honors</p>
+    </div>
+  </div>
+</div>
+
+
 
 What's New
 ======
-- [Oct 2023] I am also actively looking for research internship opportunities for Summer 2024. My areas of interest include security and privacy, trustworthy machine learning, and large language models. If you know of any opportunities, please feel free to reach out!
-- [Oct 2023] One paper titled "Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack" got accepted in [IEEE S&P 2024](https://sp2024.ieee-security.org/index.html)!
-- [May 2023] I will start a new position as Applied Scientist Intern in Amazon this summer!
-- [February 2023] Two papers titled "RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts" and "SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples" got accepted in [CVPR 2023](https://cvpr2023.thecvf.com/)!
-- [February 2023] One paper titled "IP Protection in TinyML" got accepted in [DAC 2023](https://www.dac.com/)!
-- [August 2022] One paper titled "When Evil Calls: Targeted Adversarial Voice over IP Network" got accepted in [CCS 2022](https://www.sigsac.org/ccs/CCS2022/)!
-- [August 2022] One paper titled "PolyRhythm: Adaptive Tuning of a Multi-Channel Attack Template for Timing Interference" got accepted in [RTSS 2022](http://2022.rtss.org/)!
-- [August 2022] One paper titled "From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM" got accepted in [IROS 2022](https://iros2022.org/)!
+- [June 2024] I am on the <strong>job market 2025</strong>, seeking full-time development/research positions in <strong>operating systems</strong> (e.g., robotics systems, kernel development, embedded systems, compilers) and <strong>cybersecurity</strong> (e.g., trusted computing). I am also actively looking for internship opportunities for Fall 2024.

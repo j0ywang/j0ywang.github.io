@@ -39,3 +39,57 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.education-section {
+    // margin: 20px 0;
+    padding: 10px;
+    background-color: #fff;
+    // border-left: 5px solid #4CAF50;
+}
+.dot {
+    height: 8px;
+    width: 8px;
+    background-color: #333;
+    border-radius: 25%;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+
+.education-item {
+    // margin-bottom: 20px;
+}
+
+.institution {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.institution-name {
+    font-style: italic;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.institution-name h3 {
+    margin: 0;
+    // font-size: 1.2em;
+    color: #333;
+    flex: 1;
+}
+
+.institution-name .date {
+    font-style: italic;
+    color: #888;
+    margin-left: 20px;
+    white-space: nowrap; /* Prevents date from wrapping to the next line */
+}
+
+.degree {
+    font-style: italic;
+    margin: 5px 0 0 0;
+    font-weight: normal;
+    color: #555;
+}

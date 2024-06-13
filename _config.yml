@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yujie Wang"
+title                    : "Yujie (Jay) Wang"
 title_separator          : "-"
 name                     : &name "Yujie Wang"
 description              : &description "Ph.D. candidate at Washington University in St. Louis"
-url                      : https://masterendless.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "masterendless.github.io"
+repository               : "jwang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yujie Wang"
+  name             : "Yujie (Jay) Wang"
   avatar           : "profile.jpg"
   bio              : "Ph.D. candidate at Washington University in St. Louis"
   location         : "Saint Louis, U.S."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=-Sovlv0AAAAJ&hl=en"
-  email            : "h.liu1@wustl.edu"
+  googlescholar    : "https://scholar.google.com/"
+  email            : "jay.wang@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "masterendless"
+  # github           : "masterendless"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "jay-wang-4a342717b"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

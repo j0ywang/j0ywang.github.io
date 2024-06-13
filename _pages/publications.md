@@ -5,46 +5,50 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2023
-___
-### <span style="color:#52ADC8">Please Tell Me More: Privacy Impact of Explainability through the Lens of Membership Inference Attack</span>
-<b>Han Liu</b>, Yuhao Wu, Zhiyuan Yu, Ning Zhang.\
-In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2023. (Acceptance Rate: 83/558=14.9%)
+
+### <span style="color:#52ADC8">InsectACIDE: Debugger-Based Holistic Asynchronous CFI for Embedded System</span>
+<b>Yujie Wang</b>, Cailani Lemieux Mack, Xi Tan, Ning Zhang, Ziming Zhao, Sanjoy Baruah, and Bryan C. Ward.\
+In *IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)*, 2024.\
+[[PDF]()] [[Code](https://insectacide.github.io/)]
+
+- We designed a novel module in the Arm Cortex-M TrustZone that detects control flow hijacking attacks targeting both userspace and kernelspace code in real-time embedded systems. This module utilizes hardware debugging features to provide protection without requiring modifications to the normal-world binary.
+
+### <span style="color:#52ADC8">Opportunistic Data Flow Integrity for Real-time Cyber-physical Systems Using Worst Case Execution Time Reservation</span>
+<b>Yujie Wang</b>, Ao Li, Jinwen Wang, Sanjoy Baruah, and Ning Zhang.\
+In *USENIX Security Symposium (Security)*, 2024.\
+[[PDF](https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yujie)] [[Code](https://github.com/WUSTL-CSPL/OP-DFI/)]
+
+- By leveraging a feature of real-time systems known as "worst-case execution time reservation'', we  designed a novel method that incorporates Data-Flow Integrity—a system defense technique providing strong  protection—into real-time cyber-physical systems (e.g., ROS-based robots and autonomous vehicles) with less than 5% system overhead. In contrast, the state-of-the-art approaches can incur overheads of up to 200%.
+
+### <span style="color:#52ADC8">Your Firmware Has Arrived: A Study of Firmware Update Vulnerabilities</span>
+Yuhao Wu, Jinwen Wang, <b>Yujie Wang</b>, Shixuan Zhai, Zihan Li, Yi He, Kun Sun, Qi Li and Ning Zhang.\
+In *USENIX Security Symposium (Security)*, 2024.\
+[[PDF](https://www.usenix.org/conference/usenixsecurity24/presentation/wu-yuhao)] [[Code](https://github.com/WUSTL-CSPL/ChkUp)]
+
+- We developped a novel static binary analyzer that can automatically identify firmware update vulnerabilities for IoT devices. We have reported over 30 vulnerabilities.
+
+### <span style="color:#52ADC8">Secure and Timely GPU Execution in Cyber-physical Systems</span>
+Jinwen Wang, <b>Yujie Wang</b> and Ning Zhang.\
+In *ACM Conference on Computer and Communications Security (CCS)*, 2023.\
+[[PDF](https://dl.acm.org/doi/pdf/10.1145/3576915.3623197)] 
+
+- We designed a trusted module using TEE to ensure the timely execution of GPU workloads.
+
+### <span style="color:#52ADC8">ARI: Attestation of Real-time Mission Execution Integrity</span>
+Jinwen Wang, <b>Yujie Wang</b>, Ao Li, Yang Xiao, Ruide Zhang, Wenjing Lou, Y. Thomas Hou and Ning Zhang.\
+In *USENIX Security Symposium (Security)*, 2023.\
+[[PDF](https://www.usenix.org/system/files/sec23fall-prepub-482-wang-jinwen.pdf)] [[Code](https://github.com/WUSTL-CSPL/ARI)]
+
+- We designed a software-only attestation module to efficiently attest the mission execution integrity of cyber-physical systems.
 
 
-### <span style="color:#52ADC8">RIATIG: Reliable and Imperceptible Adversarial Text-to-Image Generation with Natural Prompts</span>
-<b>Han Liu</b>, Yuhao Wu, Shixuan Zhai, Bo Yuan, Ning Zhang.\
-In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023. \
-[[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_RIATIG_Reliable_and_Imperceptible_Adversarial_Text-to-Image_Generation_With_Natural_Prompts_CVPR_2023_paper.pdf)] [[Code](https://github.com/wustl-cspl/riatig)]
 
-### <span style="color:#52ADC8">SlowLiDAR: Increasing the Latency of LiDAR-Based Detection Using Adversarial Examples</span>
-<b>Han Liu</b>, Yuhao Wu, Zhiyuan Yu, Yevgeniy Vorobeychik, Ning Zhang.\
-In *IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR)*, 2023. \
-[[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_SlowLiDAR_Increasing_the_Latency_of_LiDAR-Based_Detection_Using_Adversarial_Examples_CVPR_2023_paper.pdf)] [[Code](https://github.com/WUSTL-CSPL/SlowLiDAR)] 
+Project
+======
+### <span style="color:#52ADC8">OP-CPS: An Open Platform for Cyber-Physical System Security Research</span>
+<!-- Jinwen Wang, <b>Yujie Wang</b>, Ao Li, Yang Xiao, Ruide Zhang, Wenjing Lou, Y. Thomas Hou and Ning Zhang.\ -->
+In *Progress*.
+[[website](https://cybersecurity.seas.wustl.edu/projects/opcps.html)] 
 
-### <span style="color:#52ADC8">IP Protection in TinyML</span>
-Jinwen Wang\*, Yuhao Wu\*, <b>Han Liu</b>, Bo Yuan, Roger Chamberlain, Ning Zhang (* Equal Contribution).\
-In *ACM/IEEE Design Automation Conference (DAC)*, 2023.
-
-
-
-## 2022
-___
-
-### <span style="color:#52ADC8">When Evil Calls: Targeted Adversarial Voice over IP Network</span>
-<b>Han Liu</b>, Zhiyuan Yu, Mingming Zha, XiaoFeng Wang, William Yeoh, Yevgeniy Vorobeychik, Ning Zhang.\
-In *ACM Conference on Computer and Communications Security (CCS)*, 2022.\
-[[PDF](https://dl.acm.org/doi/pdf/10.1145/3548606.3560671)] [[Code](https://github.com/WUSTL-CSPL/EvilCalls)]
-
-### <span style="color:#52ADC8">PolyRhythm: Adaptive Tuning of a Multi-Channel Attack Template for Timing Interference</span>
-Ao Li\*, Marion Sudvarg\*, <b>Han Liu</b>, Zhiyuan Yu, Chris Gill, Ning Zhang (* Equal Contribution).\
-In *IEEE Real-Time Systems Symposium (RTSS)*, 2022.\
-[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984708)] [[Code](https://github.com/WUSTL-CSPL/PolyRhythm)]
-
-### <span style="color:#52ADC8">From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM</span>
-Ao Li, <b>Han Liu</b>, Jinwen Wang, Ning Zhang.\
-In *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022.\
-[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981275)] [[Code](https://github.com/WUSTL-CSPL/Timing-Adaptive-SLAM)]
-
-
+- Within the domain of Cyber-Physical Systems (CPS) security research, a significant challenge has been the limited accessibility to suitable testing platforms and the compatibility between these platforms and security analysis frameworks. Addressing this issue, the project aims to design and implement an open-source platform specifically tailored for CPS security research testing.
 
