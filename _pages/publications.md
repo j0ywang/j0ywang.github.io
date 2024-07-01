@@ -9,7 +9,7 @@ author_profile: true
 ### <span style="color:#52ADC8">InsectACIDE: Debugger-Based Holistic Asynchronous CFI for Embedded System</span>
 <b>Yujie Wang</b>, Cailani Lemieux Mack, Xi Tan, Ning Zhang, Ziming Zhao, Sanjoy Baruah, and Bryan C. Ward.\
 In *IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)*, 2024.\
-[[PDF]()] [[Code](https://github.com/InsectACIDE/insectACIDE)]
+[[PDF](https://ieeexplore.ieee.org/abstract/document/10568062)] [[Code](https://github.com/InsectACIDE/insectACIDE)]
 
 - We designed a novel module in the Arm Cortex-M TrustZone that detects control flow hijacking attacks targeting both userspace and kernelspace code in real-time embedded systems. This module utilizes hardware debugging features to provide protection without requiring modifications to the normal-world binary.
 
