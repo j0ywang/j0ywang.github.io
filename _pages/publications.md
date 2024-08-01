@@ -20,7 +20,7 @@ In *USENIX Security Symposium (Security)*, 2024.\
 
 - By leveraging a feature of real-time systems known as "worst-case execution time reservation'', we  designed a novel method that incorporates Data-Flow Integrity—a system defense technique providing strong  protection—into real-time cyber-physical systems (e.g., ROS-based robots and autonomous vehicles) with less than 5% system overhead. In contrast, the state-of-the-art approaches can incur overheads of up to 200%.
 
-### <span style="color:#52ADC8">Partial Context-Sensitive Pointer Integrity for Real-time Embedded Systems.</span>
+### <span style="color:#52ADC8">Partial Context-Sensitive Pointer Integrity for Real-time Embedded Systems</span>
 <b>Yujie Wang</b>, Cailani Lemieux Mack, Thidapat Chantem, Sanjoy Baruah, Ning Zhang, and Bryan C. Ward.\
 In *IEEE Real-Time Systems Symposium (RTSS)*, 2024.\
 [[PDF]()]
