@@ -42,4 +42,4 @@ Education
 
 What's New
 ======
-- [June 2024] I am on the <strong>job market 2025</strong>, seeking full-time development/research positions in <strong>operating systems</strong> (e.g., robotics systems, kernel development, embedded systems, compilers) and <strong>cybersecurity</strong> (e.g., trusted computing). I am also actively looking for internship opportunities for Fall 2024.
+- [July 2024] I am on the <strong>job market 2025</strong>, seeking full-time development/research positions in <strong>operating systems</strong> (e.g., robotics systems, kernel development, embedded systems, compilers) and <strong>cybersecurity</strong> (e.g., trusted computing). I am also actively looking for internship opportunities.
