@@ -21,9 +21,9 @@ In *USENIX Security Symposium (Security)*, 2024.\
 - By leveraging a feature of real-time systems known as "worst-case execution time reservation'', we  designed a novel method that incorporates Data-Flow Integrity—a system defense technique providing strong  protection—into real-time cyber-physical systems (e.g., ROS-based robots and autonomous vehicles) with less than 5% system overhead. In contrast, the state-of-the-art approaches can incur overheads of up to 200%.
 
 ### <span style="color:#52ADC8">Partial Context-Sensitive Pointer Integrity for Real-time Embedded Systems</span>
-<b>Yujie Wang</b>, Cailani Lemieux Mack, Thidapat Chantem, Sanjoy Baruah, Ning Zhang, and Bryan C. Ward.\
+<b>Yujie Wang</b>, Kailani Lemieux Mack, Thidapat Chantem, Sanjoy Baruah, Ning Zhang, and Bryan C. Ward.\
 In *IEEE Real-Time Systems Symposium (RTSS)*, 2024.\
-[[PDF]()]
+[[PDF](https://github.com/parcspi/ParCSPI)] [[Code](https://github.com/parcspi/ParCSPI)]
 
 -   This work formulates the security level provided by partial context-sensitivity in relation to its performance impact on real-time schedulability. As a result, optimal policy-guided security protection can be achieved with theoretical real-time schedulability guarantees. Our approach can provide 60% pointer integrity protection with only 10% runtime overhead. In contrast, existing approaches can incur over 150% overhead without offering any real-time schedulability guarantees.
 
