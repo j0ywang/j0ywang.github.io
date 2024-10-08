@@ -22,7 +22,7 @@ Education
     <div class="institution">
       <div class="institution-name">
         <h3>Washington University in St. Louis, USA</h3>
-        <span class="date">Sep 2021 - May 2025 (Expected)</span>
+        <span class="date">Sep 2021 - Dec 2024/May 2025 (Expected)</span>
       </div>
       <p class="degree">Ph.D. in Computer Science</p>
     </div>
@@ -42,4 +42,4 @@ Education
 
 What's New
 ======
-- [July 2024] I am on the <strong>job market 2025</strong>, seeking full-time development/research positions in <strong>operating systems</strong> (e.g., robotics systems, kernel development, embedded systems, compilers) and <strong>cybersecurity</strong> (e.g., trusted computing). I am also actively looking for internship opportunities.
+- [Oct 2024] I am on the <strong>job market 2025</strong> (available to start from either January or May 2025), seeking full-time development/research positions in <strong>operating systems</strong> (e.g., robotics systems, kernel development, embedded systems, compilers) and <strong>cybersecurity</strong> (e.g., trusted computing).
