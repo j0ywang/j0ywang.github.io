@@ -9,11 +9,11 @@ redirect_from:
 ---
 I am currently a final-year Ph.D. candidate in the Department of Computer Science and Engineering at [Washington University in St. Louis (WashU)](https://wustl.edu/). I am fortunate to work in [Computer Security and Privacy Lab (CSPL)](https://cybersecurity.seas.wustl.edu/index.html). Previously, I received B.S. degree in Data Science and Technology from [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) in 2021. 
 
-My PhD specializes in system/software security and real-time embedded systems, where I have published papers as the first author in top-tier conferences within both domains. Additionally, I have a keen interest in system building and serve as a core member in developing an open platform for Cyber-Physical System security research ([OP-CPS](https://cybersecurity.seas.wustl.edu/projects/opcps.html)).
+My PhD specializes in system/software security and real-time embedded systems, where I have published papers as the first author in top-tier conferences within both domains. 
 
 Research Interests
 ======
-- Real-time Embedded System, Software/System Security, Robotic System
+- Real-time System, Software/System Security, Robotic System
 
 Education
 ======
