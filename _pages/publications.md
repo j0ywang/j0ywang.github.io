@@ -49,14 +49,3 @@ In *USENIX Security Symposium (Security)*, 2023.\
 
 - We designed a software-only attestation module to efficiently attest the mission execution integrity of cyber-physical systems.
 
-
-
-Project
-======
-### <span style="color:#52ADC8">OP-CPS: An Open Platform for Cyber-Physical System Security Research</span>
-<!-- Jinwen Wang, <b>Yujie Wang</b>, Ao Li, Yang Xiao, Ruide Zhang, Wenjing Lou, Y. Thomas Hou and Ning Zhang.\ -->
-In *Progress*.
-[[website](https://cybersecurity.seas.wustl.edu/projects/opcps.html)] 
-
-- Within the domain of Cyber-Physical Systems (CPS) security research, a significant challenge has been the incompatibility between various platforms and security analysis frameworks. To address this issue, I adapted security analysis frameworks (e.g., SVF, KLEE) to be compatible with existing CPS platforms, including microcontrollers and robotics. These platforms were tested in real-world scenarios using actual hardware. Through this project, I gained experience with a diverse range of technical stacks in robotic systems, including hardware integration, middleware (e.g., ROS), and algorithms (e.g., SLAM and Computer Vision).
-
